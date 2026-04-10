@@ -144,7 +144,7 @@ All outputs were reviewed, tested, and modified where necessary.
 
 ## 📊 AI Prompt Log
 
-### 1) Prompt:
+### (1) Prompt:
 - How to implement offline-first architecture in Flutter?
 
 **Summary:**
@@ -155,7 +155,7 @@ Suggested using local DB + sync queue
 
 ---
 
-### 2) Prompt:
+### (2) Prompt:
 - How to implement retry mechanism with idempotency?
 
 **Summary:**
@@ -166,7 +166,7 @@ Use unique IDs and retry counters
 
 ---
 
-### 3) Prompt:
+### (3) Prompt:
 - Improve UI for notes app
 
 **Summary:**
@@ -176,6 +176,13 @@ Suggested card-based layout
 **Why:** Better UX and readability
 
 ---
+
+### (4) screenshots
+**APP Ui (lib/screenshots/Ui.jpeg)**
+**Empty State (lib/screenshots/Empty state.jpegg)**
+**Add note (lib/screenshots/Add note ui.jpeg)**
+**Offline scenario (lib/screenshots/offline_scenario.jpeg)**
+**logs(lib/screenshots/Queue 0.png),(lib/screenshots/Queue 1(offline).png)(lib/screenshots/Queue 2.png)**
 
 ## ▶️ Run Instructions
 
